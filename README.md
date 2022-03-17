@@ -1,9 +1,10 @@
 ### Ryan Cui
 
-Hello, I am ryancui-. I am very good at playing games but very bad at writing codes. :)
+Hello, I am ryancui-.
 
-- 🔭 I’m currently working on [an online werewolf game](https://toxic-johann.github.io/werewolf-web)
-- 🌱 I’m currently learning React/React Hooks
+- 🔭 I’m currently working on a wecom bot helpers.
+- 🌱 I’m currently emo-ing...
+
 <!-- 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ... 
